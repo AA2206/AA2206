@@ -17,13 +17,12 @@
 ### 🐦 Chirp Campus
 **Say you're free, see who else is.** A friends-only app that makes it easy for UMD students to start plans, built from the ground up as co-founder.
 
-<!-- Add screenshots here, same format as DiningIQ:
 <p>
-  <img src="SCREENSHOT_URL_1" width="200" />
-  <img src="SCREENSHOT_URL_2" width="200" />
-  <img src="SCREENSHOT_URL_3" width="200" />
+  <img src="01-now-feed.png" width="200" />
+  <img src="05-upcoming-plans.png" width="200" />
+  <img src="06-events.png" width="200" />
 </p>
--->
+
 
 **What it does:** live "chirps" for today's plans and RSVPs for upcoming ones, every TerpLink club event and Maryland game pulled in automatically, live UMD dining menus with allergen tags, groups with invite links and QR codes, and an opt-in way to meet new people. Privacy-first: no public feed, no location tracking, no photos.
 
