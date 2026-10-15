@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Arpan 👋</h1>
+<h1 align="center">Hi 👋 My name is Arpan Agarwal</h1>
 
 <p align="center">
   CS & Math @ University of Maryland · Co-Founder of Chirp Campus<br/>
