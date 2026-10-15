@@ -53,22 +53,6 @@ Built for UMD, with 50+ users since launch.
 
 ---
 
-# ⭐ Featured Projects
-
-### [DiningIQ](https://github.com/AA2206/DiningIQ)
-AI-powered meal planning for UMD dining halls. Builds personalized daily meal plans from real nutrition data and tracks your macros over time.<br/>
-`React Native` `Expo` `Express` `PostgreSQL` `Prisma` `OpenAI`
-
-### [Crossoff](https://github.com/AA2206/Crossoff)
-Turns your prioritized to-do list into time blocks on Google Calendar, scheduled around what's already there. Runs fully in the browser with no server or account.<br/>
-`React` `TypeScript` `Vite` `Tailwind` `Google Calendar API` `Vitest`
-
-### [Pomodoro Planner](https://github.com/AA2206/Pomodoro-Scheduler) · [Live Demo](https://pomodoro-scheduler.vercel.app)
-A productivity app combining a to-do list, calendar, and Pomodoro timer, with analytics on how you spend your time.<br/>
-`React` `Express` `MongoDB` `Chart.js` `Tailwind`
-
----
-
 # 🛠️ Tech I Work With
 
 ### Languages
@@ -87,6 +71,22 @@ React & React Native · Node.js · Express.js · Flask · Tailwind CSS
 Git · GitHub Actions · Supabase · Prisma
 
 ### Also: Expo · Railway · Twilio · Pandas · NumPy
+
+---
+
+# ⭐ Featured Projects
+
+### [DiningIQ](https://github.com/AA2206/DiningIQ)
+AI-powered meal planning for UMD dining halls. Builds personalized daily meal plans from real nutrition data and tracks your macros over time.<br/>
+`React Native` `Expo` `Express` `PostgreSQL` `Prisma` `OpenAI`
+
+### [Crossoff](https://github.com/AA2206/Crossoff)
+Turns your prioritized to-do list into time blocks on Google Calendar, scheduled around what's already there. Runs fully in the browser with no server or account.<br/>
+`React` `TypeScript` `Vite` `Tailwind` `Google Calendar API` `Vitest`
+
+### [Pomodoro Planner](https://github.com/AA2206/Pomodoro-Scheduler)
+A productivity app combining a to-do list, calendar, and Pomodoro timer, with analytics on how you spend your time.<br/>
+`React` `Express` `MongoDB` `Chart.js` `Tailwind`
 
 ---
 
