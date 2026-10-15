@@ -14,7 +14,7 @@
 
 # 📱 Apps I've Shipped
 
-## 🐦 Chirp Campus
+## Chirp Campus
 ### Say you're free, see who else is.
 A friends-only app that makes it easy for UMD students to start plans, built from the ground up as co-founder.
 
@@ -34,7 +34,7 @@ A friends-only app that makes it easy for UMD students to start plans, built fro
 <a href="https://play.google.com/store/apps/details?id=app.chirpcampus.android"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-01875F?style=for-the-badge&logo=googleplay&logoColor=white" height="36" /></a>
 <!-- <a href="https://chirpcampus.com"><img src="https://img.shields.io/badge/Website-chirpcampus.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" height="36" /></a> -->
 
-## 🍽️ DiningIQ
+## DiningIQ
 ### AI-powered meal planning for university dining halls.
 Built for UMD, with 50+ users since launch.
 
