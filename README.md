@@ -32,7 +32,7 @@ A friends-only app that makes it easy for UMD students to start plans, built fro
 
 <a href="https://apps.apple.com/app/chirp-campus/id6782537911"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" height="36" /></a>
 <a href="https://play.google.com/store/apps/details?id=app.chirpcampus.android"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-01875F?style=for-the-badge&logo=googleplay&logoColor=white" height="36" /></a>
-<a href="https://chirpcampus.com"><img src="https://img.shields.io/badge/Website-chirpcampus.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" height="36" /></a>
+<!-- <a href="https://chirpcampus.com"><img src="https://img.shields.io/badge/Website-chirpcampus.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" height="36" /></a> -->
 
 ## 🍽️ DiningIQ
 ### AI-powered meal planning for university dining halls.
@@ -61,9 +61,9 @@ Built for UMD, with 50+ users since launch.
 TypeScript · JavaScript · Python · Java · C · SQL (PostgreSQL) · HTML · CSS
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind,sklearn" height="60" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind" height="60" />
 
-React & React Native · Node.js · Express.js · Flask · Tailwind CSS · scikit-learn
+React & React Native · Node.js · Express.js · Flask · Tailwind CSS
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,githubactions,supabase,prisma" height="60" />
