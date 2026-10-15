@@ -32,19 +32,20 @@ A friends-only app that makes it easy for UMD students to start plans, built fro
 
 <a href="https://apps.apple.com/app/chirp-campus/id6782537911"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" height="36" /></a>
 <a href="https://play.google.com/store/apps/details?id=app.chirpcampus.android"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-01875F?style=for-the-badge&logo=googleplay&logoColor=white" height="36" /></a>
-<!-- <a href="https://chirpcampus.com"><img src="https://img.shields.io/badge/Website-chirpcampus.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" height="36" /></a> -->
+<a href="https://chirpcampus.com"><img src="https://img.shields.io/badge/Website-chirpcampus.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" height="36" /></a>
 
 ## 🍽️ DiningIQ
 ### AI-powered meal planning for university dining halls.
-Built for University of Maryland
+Built for UMD, with 50+ users since launch.
+
 <p>
   <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/meal-plan.jpg" height="560" alt="Personalized meal recommendations at each dining hall" />
   <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/meal-logging.jpg" height="560" alt="Log meals and track macros" />
   <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/analytics.jpg" height="560" alt="Weekly progress analytics" />
 </p>
 
-- Web Scrapes 1,500–2,000 dining hall menu items and their nutrition data daily (Scrapy + Playwright)
-- Generates personalized daily meal plans with via the OpenAI Batch API, cutting generation costs by 50%
+- Scrapes 1,500–2,000 dining hall menu items and their nutrition data daily (Scrapy + Playwright)
+- Generates personalized daily meal plans with GPT-5-mini via the OpenAI Batch API, cutting generation costs by 50%
 - JWT-secured REST API with Google and Apple sign-in, deployed on Railway
 
 <a href="https://apps.apple.com/app/diningiq/id6757298851"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" height="36" /></a>
@@ -57,11 +58,17 @@ Built for University of Maryland
 ### Languages
 <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,postgres,html,css" height="60" />
 
+TypeScript · JavaScript · Python · Java · C · SQL (PostgreSQL) · HTML · CSS
+
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind,sklearn" height="60" />
 
+React & React Native · Node.js · Express.js · Flask · Tailwind CSS · scikit-learn
+
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,githubactions,supabase,prisma" height="60" />
+
+Git · GitHub Actions · Supabase · Prisma
 
 ### Also: Expo · Railway · Twilio · Pandas · NumPy
 
