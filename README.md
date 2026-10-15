@@ -19,9 +19,9 @@
 A friends-only app that makes it easy for UMD students to start plans, built from the ground up as co-founder.
 
 <p>
-  <img src="01-now-feed.png" width="260" />
-  <img src="05-upcoming-plans.png" width="260" />
-  <img src="06-events.png" width="260" />
+  <img src="01-now-feed.png" height="560" />
+  <img src="05-upcoming-plans.png" height="560" />
+  <img src="06-events.png" height="560" />
 </p>
 
 **What it does:** live "chirps" for today's plans and RSVPs for upcoming ones, every TerpLink club event and Maryland game pulled in automatically, live UMD dining menus with allergen tags, groups with invite links and QR codes, and an opt-in way to meet new people. Privacy-first: no public feed, no location tracking, no photos.
@@ -39,9 +39,9 @@ A friends-only app that makes it easy for UMD students to start plans, built fro
 Built for UMD, with 50+ users since launch.
 
 <p>
-  <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/meal-plan.jpg" width="260" alt="Personalized meal recommendations at each dining hall" />
-  <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/meal-logging.jpg" width="260" alt="Log meals and track macros" />
-  <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/analytics.jpg" width="260" alt="Weekly progress analytics" />
+  <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/meal-plan.jpg" height="560" alt="Personalized meal recommendations at each dining hall" />
+  <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/meal-logging.jpg" height="560" alt="Log meals and track macros" />
+  <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/analytics.jpg" height="560" alt="Weekly progress analytics" />
 </p>
 
 - Scrapes 1,500–2,000 dining hall menu items and their nutrition data daily (Scrapy + Playwright)
