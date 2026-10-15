@@ -36,16 +36,15 @@ A friends-only app that makes it easy for UMD students to start plans, built fro
 
 ## 🍽️ DiningIQ
 ### AI-powered meal planning for university dining halls.
-Built for UMD, with 50+ users since launch.
-
+Built for University of Maryland
 <p>
   <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/meal-plan.jpg" height="560" alt="Personalized meal recommendations at each dining hall" />
   <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/meal-logging.jpg" height="560" alt="Log meals and track macros" />
   <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/analytics.jpg" height="560" alt="Weekly progress analytics" />
 </p>
 
-- Scrapes 1,500–2,000 dining hall menu items and their nutrition data daily (Scrapy + Playwright)
-- Generates personalized daily meal plans with GPT-5-mini via the OpenAI Batch API, cutting generation costs by 50%
+- Web Scrapes 1,500–2,000 dining hall menu items and their nutrition data daily (Scrapy + Playwright)
+- Generates personalized daily meal plans with via the OpenAI Batch API, cutting generation costs by 50%
 - JWT-secured REST API with Google and Apple sign-in, deployed on Railway
 
 <a href="https://apps.apple.com/app/diningiq/id6757298851"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" height="36" /></a>
