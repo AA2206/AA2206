@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 my name is Arpan Agarwal</h1>
+<h1 align="center">Hey, I'm Arpan 👋</h1>
 
 <p align="center">
   CS & Math @ University of Maryland · Co-Founder of Chirp Campus<br/>
@@ -15,13 +15,25 @@
 ## 📱 Apps I've Shipped
 
 ### 🐦 Chirp Campus
-A social coordination app that makes it easy for college students to make plans together. Built from the ground up as a co-founder and shipped to iOS and Android.
+**Say you're free, see who else is.** A friends-only app that makes it easy for UMD students to start plans, built from the ground up as co-founder.
+
+<!-- Add screenshots here, same format as DiningIQ:
+<p>
+  <img src="SCREENSHOT_URL_1" width="200" />
+  <img src="SCREENSHOT_URL_2" width="200" />
+  <img src="SCREENSHOT_URL_3" width="200" />
+</p>
+-->
+
+**What it does:** live "chirps" for today's plans and RSVPs for upcoming ones, every TerpLink club event and Maryland game pulled in automatically, live UMD dining menus with allergen tags, groups with invite links and QR codes, and an opt-in way to meet new people. Privacy-first: no public feed, no location tracking, no photos.
 
 - React Native (Expo) frontend with an Express.js + PostgreSQL backend, all in TypeScript
 - CI/CD with GitHub Actions, deployed on Railway
 - Async push notifications, race-condition-safe database logic, and automated content screening
 
 <a href="https://apps.apple.com/app/chirp-campus/id6782537911"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=app.chirpcampus.android"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-01875F?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+<a href="https://chirpcampus.com"><img src="https://img.shields.io/badge/Website-chirpcampus.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 ### 🍽️ DiningIQ
 **AI-powered meal planning for university dining halls.** Built for UMD, with 50+ users since launch.
@@ -32,8 +44,8 @@ A social coordination app that makes it easy for college students to make plans 
   <img src="https://github.com/AA2206/DiningIQ/raw/main/assets/screenshots/analytics.jpg" width="200" alt="Weekly progress analytics" />
 </p>
 
-- Web Scrapes 1,500–2,000 dining hall menu items and their nutrition data daily (Scrapy + Playwright)
-- Generates personalized daily meal plans via the OpenAI Batch API, cutting generation costs by 50%
+- Scrapes 1,500–2,000 dining hall menu items and their nutrition data daily (Scrapy + Playwright)
+- Generates personalized daily meal plans with GPT-5-mini via the OpenAI Batch API, cutting generation costs by 50%
 - JWT-secured REST API with Google and Apple sign-in, deployed on Railway
 
 <a href="https://apps.apple.com/app/diningiq/id6757298851"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" /></a>
